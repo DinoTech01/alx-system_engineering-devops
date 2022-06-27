@@ -1,1 +1,1 @@
-A script that writes into the fie the result of a command
+Write a script that duplicates the last line of the file
