@@ -1,1 +1,1 @@
-Display the content of the fie
+Display the content of two files
