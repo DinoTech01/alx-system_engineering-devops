@@ -1,1 +1,1 @@
-Write a shell script that creates a file containing the text best school
+A script that writes into the fie the result of a command
