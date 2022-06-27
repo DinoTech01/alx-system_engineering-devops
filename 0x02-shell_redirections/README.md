@@ -1,1 +1,1 @@
-Display lines containing the pattern root and 3 lines affter them in the file
+Display all the lines in the file that do not contain the pattern bin
